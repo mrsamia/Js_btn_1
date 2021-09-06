@@ -1,7 +1,9 @@
 .btn_style{
     margin-left: 10px;
     margin-right: 10px;
-    border: 1px solid gray;
+    border: none;
+    color: rgb(0, 12, 12);
+    background-color:#FF7A7A;
     border-radius: 10px;
     height: 45px;
     width: 120px;
