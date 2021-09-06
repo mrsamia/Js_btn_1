@@ -1,0 +1,12 @@
+.btn_style{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 45px;
+    width: 120px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+
